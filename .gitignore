@@ -4,6 +4,8 @@ node_modules/
 # Frontend build output
 frontend/dist/
 frontend/.vite/
+*.tsbuildinfo
+frontend/vite.config.js
 
 # Backend build output
 backend/target/
@@ -22,4 +24,3 @@ backend/.env
 # OS
 .DS_Store
 Thumbs.db
-
