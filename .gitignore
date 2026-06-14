@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Frontend build output
+frontend/dist/
+frontend/.vite/
+
+# Backend build output
+backend/target/
+
+# Environment
+.env
+.env.local
+frontend/.env
+backend/.env
+
+# IDE/editor
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
